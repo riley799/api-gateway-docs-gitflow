@@ -1,3 +1,1 @@
 # API Gateway Documentation
-
-abc
